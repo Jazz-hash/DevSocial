@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://jazz123:jazz123@devsocial.rnt0x.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://jazz123:jazz123@devsocial.rnt0x.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "iambatman"
 }
